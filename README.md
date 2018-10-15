@@ -1,7 +1,7 @@
 
 List of patterns:
 
-1) Factory Pattern
+1)Factory Pattern
 
 2)Decorator Pattern
 
