@@ -5,4 +5,4 @@ List of patterns:
 
 2)Decorator Pattern
 
-3)Iterator Pattern
+3)Observable Pattern
